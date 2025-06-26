@@ -1,0 +1,17 @@
+{
+  "experiment_name": "demo3_10",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/sparse_rice_single_womask_10/nerfacto/demo3/nerfstudio_models/step-000029999.ckpt",
+  "results": {
+    "psnr": 12.249558448791504,
+    "psnr_std": 2.3042702674865723,
+    "ssim": 0.04772535711526871,
+    "ssim_std": 0.025224387645721436,
+    "lpips": 0.7659635543823242,
+    "lpips_std": 0.07003863155841827,
+    "num_rays_per_sec": 817635.625,
+    "num_rays_per_sec_std": 129540.828125,
+    "fps": 0.8871914744377136,
+    "fps_std": 0.1405608057975769
+  }
+}
