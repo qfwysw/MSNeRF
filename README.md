@@ -17,6 +17,12 @@ sparse_rice_single
 
 Make sure this dataset is extracted and located in the correct directory.
 
+## Model weight
+
+```
+https://drive.google.com/drive/folders/1baXTfo5wFH_QcUKcFx9UnOLTLutZ3u4u?usp=drive_link
+```
+
 ## Training Steps
 
 To start training, execute the following script:
