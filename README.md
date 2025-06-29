@@ -20,7 +20,7 @@ Make sure this dataset is extracted and located in the correct directory.
 ## Model weight
 
 ```
-https://drive.google.com/drive/folders/1baXTfo5wFH_QcUKcFx9UnOLTLutZ3u4u?usp=drive_link
+https://drive.google.com/drive/folders/1baXTfo5wFH_QcUKcFx9UnOLTLutZ3u4u?usp=sharing
 ```
 
 ## Training Steps
